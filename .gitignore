@@ -16,7 +16,7 @@ Rplots.pdf
 
 # Ignore the RStudio project files
 .Rproj.user/
-.Rproj
+*.Rproj
 
 # Ignore the RStudio folders
 .Rproj.user/
